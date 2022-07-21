@@ -1,0 +1,9 @@
+# Create App
+==========================================
+expo init [project-name]
+
+# Run App
+==========================================
+npm run web
+npm run android
+npm run ios
